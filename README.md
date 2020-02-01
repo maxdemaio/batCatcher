@@ -1,4 +1,6 @@
 # batCatcher
+<img src="images/batCatcher.png" width = 300>
+
 Scratch bat catching game
 
 How it works:
